@@ -1,0 +1,11 @@
+[project]
+name = "battery-telemetry"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "cantools>=45.2.0",
+    "pandas>=3.1.1",
+    "plotly>=7.1.0",
+    "pytest>=9.2.0",
+    "python-can>=4.6.1",
+]
