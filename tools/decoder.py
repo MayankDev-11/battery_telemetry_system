@@ -16,7 +16,7 @@ def decode_frame(data):
         "pack_voltage": voltage,
         "pack_current": current,
         "low_cell_voltage": low_cell,
-        "high_cell_voltage": high_cell
+        "high_cell_voltage": high_cell,
     }
 
 
